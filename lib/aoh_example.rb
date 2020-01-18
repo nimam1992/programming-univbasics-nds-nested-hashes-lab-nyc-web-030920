@@ -24,7 +24,6 @@ def literal_aoh
     KATE_G,
     BRUCE_G
   ]
-  personality.sort
   personality
 end
 
